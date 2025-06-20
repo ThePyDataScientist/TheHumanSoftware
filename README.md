@@ -1,7 +1,7 @@
 # **The Human Software: Ecosistemas de Inteligencia Estratégica**
 
 <p align="center">
-  <img src="URL_DEL_LOGO_SI_EXISTE" alt="The Human Software Logo" width="150"/>
+  <img src="/TheHumanSoftware-BlackBackGround/TheHumanSoftware-BlackBackGround.png" alt="The Human Software Logo" width="150"/>
 </p>
 
 
