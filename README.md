@@ -1,8 +1,6 @@
 # **The Human Software: Ecosistemas de Inteligencia Estratégica**
 
-<p align="center">
-  <img src="/TheHumanSoftware-BlackBackGround/TheHumanSoftware-BlackBackGround.png" alt="The Human Software Logo" width="150"/>
-</p>
+![Logo The Human Software](https://thehumansoftware.com/wp-content/uploads/2025/11/TheHumanSoftware-BlackBakcGround--scaled.png)
 
 
 <h3 align="center">Co-Creación Intelectual Aumentada</h3>
